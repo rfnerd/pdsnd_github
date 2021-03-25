@@ -2,10 +2,10 @@
 March 25th 2021.
 
 ### Project Title
-Uploading my python project to Github repo.
+Udacity Bikeshare Project - 2021
 
 ### Description
-Previously I worked on a python project where I used a set of data provided by a bike rental company in the US. In that project I ask user to apply his preferred filter and based on it the code provides insightful info about customers' stats. Such as most popular month, day and starting station...etc. Now, in this project I will apply my knowledge of version control to upload (push) my files to Github. Enjoy the journey! :)
+This project I use data provided by Udacity about a bike rental company in the US. In my code I start by ask the user to apply his preferred filter in terms of city, month and day, then based on the input from the user, the code provides insightful statistics about the data. Such as the most popular month, day and starting station...etc. After completing the bikeshare project, I'm now applying my knowledge of version control to upload (push) my files to Github. Enjoy! :)
 
 ### Files used
 bikeshare.py, readme.mg, new_york_city.csv, chicago.csv, washington.csv (csv files are ignored using a .gitignore file)
