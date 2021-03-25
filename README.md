@@ -1,5 +1,5 @@
 ### Date created
-25th of March 2021.
+March 25th 2021.
 
 ### Project Title
 Uploading my python project to Github.
