@@ -1,17 +1,14 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+March 25th 2021.
 
 ### Project Title
-Replace the Project Title
+Uploading my python project to Github repo.
 
 ### Description
-Describe what your project is about and what it does
+Previously I worked on a python project where I used a set of data provided by a bike rental company in the US. In that project I ask user to apply his preferred filter and based on it the code provides insightful info about customers' stats. Such as most popular month, day and starting station...etc. Now, in this project I will apply my knowledge of version control to upload (push) my files to Github. Enjoy the journey! :)
 
 ### Files used
-Include the files used
+bikeshare.py, readme.mg, new_york_city.csv, chicago.csv, washington.csv (csv files are ignored using a .gitignore file)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I give the credit to course tutors and all the great students who gave a brief of their work to the community! Thank you all!
